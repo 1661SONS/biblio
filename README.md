@@ -1,15 +1,7 @@
-# GT: Group 07 Project
-
-## Biblio
+# Biblio
 
 ### Project Description
 Biblio will give users a no-nonsense way to research authors free of distractions. The problem with current means of researching authors is the pressure to buy other, many times un-related, products. This tool will use Google Maps to place an author in their real-life element and humanize their story with a short bio and a quick reference to their most popular works.
-
-### Team Roles
-_Rochelle_: Styling // Look & Feel (she's a bibliophile)
-_Sofya_: JS // API Calling
-_Julia_: HTML // Styling // UX
-_Heena_: JS // API Calling
 
 ### MVP
 1. google map
